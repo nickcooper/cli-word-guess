@@ -13,6 +13,8 @@ $ node index.js
 ```
 It will pick a random fruit from a list. It will display what letters have been guess correctly and blank places for those remaining. Then it will ask you to guess a letter.
 
+![Word Guess](walkthru.gif)
+
 ### Technologies Used
 * npm node modules:
     * inquirer
